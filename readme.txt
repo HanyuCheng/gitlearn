@@ -7,6 +7,6 @@ Now I am learning chapter 2 of "learning git" wrote by MichaelLiao. I think he w
 
 Hello,I'm back again,
 Now I'm learning how to modify the files in repository.
-This is my first try
+This is my first try.
 
 creating a new branch called dev.
