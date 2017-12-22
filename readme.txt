@@ -10,3 +10,4 @@ Now I'm learning how to modify the files in repository.
 This is my first try
 
 creating a new branch called dev.
+While master is used to formally update,dev is used to edit and revise.
